@@ -1,0 +1,1 @@
+ g++ -DMEM_DEBUG=1 -DUSE_SSL=1 -DLINUX=1 main.cpp libpop2/nix_threading.cpp libpop2/queue.cpp libpop2/socket.cpp libpop2/nix_socket.cpp libpop2/httpprotocol.cpp libpop2/stringz.cpp libpop2/marray.cpp libpop2/token.cpp libpop2/required/memory.cpp libpop2/required/nix.cpp libpop2/bucket.cpp libpop2/ssl.cpp -w -g  -lssl -lcrypto -lpthread -fsanitize=address #-DCOMPILER_MSVC=yes 
