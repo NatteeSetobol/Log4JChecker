@@ -1,6 +1,10 @@
 # Log4JChecker
 Log4JChecker checks for CVE-2021-44228 vulnerability
 
+<dl>
+  <dt>Compiler</dt>
+  <dd>G++</dd>
+ </dl>
 
 <dl>
   <dt>Dependencies:</dt>
