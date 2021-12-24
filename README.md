@@ -1,5 +1,5 @@
-# Log4JChecker
-Log4JChecker checks for CVE-2021-44228 vulnerability
+# Log4JPOC
+POC for CVE-2021-44228 vulnerability
 
 <dl>
   <dt>Compiler</dt>
