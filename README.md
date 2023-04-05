@@ -1,5 +1,5 @@
 # Log4JPOC
-POC for CVE-2021-44228 vulnerability
+Log4j is a widely-used logging library for Java applications, known for its flexibility and ease of use. However, a recent vulnerability discovered in Log4j has left many systems exposed to potential attacks. In response to this, a proof of concept (PoC) has been developed to help organizations identify and address this vulnerability.
 
 <dl>
   <dt>Compiler</dt>
